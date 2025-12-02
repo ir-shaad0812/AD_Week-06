@@ -1,0 +1,14 @@
+D:\DotNet\Task-01\Task-01\bin\Debug\net8.0\Task-01.exe
+D:\DotNet\Task-01\Task-01\bin\Debug\net8.0\Task-01.deps.json
+D:\DotNet\Task-01\Task-01\bin\Debug\net8.0\Task-01.runtimeconfig.json
+D:\DotNet\Task-01\Task-01\bin\Debug\net8.0\Task-01.dll
+D:\DotNet\Task-01\Task-01\bin\Debug\net8.0\Task-01.pdb
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.AssemblyInfoInputs.cache
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.AssemblyInfo.cs
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.csproj.CoreCompileInputs.cache
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.dll
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\refint\Task-01.dll
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.pdb
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\Task-01.genruntimeconfig.cache
+D:\DotNet\Task-01\Task-01\obj\Debug\net8.0\ref\Task-01.dll
